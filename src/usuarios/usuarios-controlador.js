@@ -2,6 +2,10 @@ const Usuario = require("./usuarios-modelo");
 const { InvalidArgumentError, InternalServerError } = require("../erros");
 
 module.exports = {
+  login: (req, res) => {
+    res.status(204).send();
+  },
+
   adiciona: async (req, res) => {
     const { nome, email, senha } = req.body;
 
