@@ -6,11 +6,15 @@
 > - Entender o funcionamento do JSON Web Token e como usá-lo para autenticação.
 > - Utilizar um banco de dados chave-valor em memória na sua aplicação.
 
-### Scripts disponíveis
-No diretório do projeto, você pode rodar:
-> ### `yarn`
-> Irá instalar as dependências do projeto.
+##
 
-> ### `yarn start`
-> Rodará o app em modo de desenvolvimento.\
-> Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
+> ### Scripts disponíveis
+> No diretório do projeto, você pode rodar:
+> - #### `yarn`
+>   Irá instalar as dependências do projeto.
+>   
+> - #### `yarn start`
+>   Rodará o app em modo de desenvolvimento.\
+>   Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
+
+##
